@@ -3,6 +3,9 @@
 
 
 #install
+
+
+
 pkg update && pkg upgrade             
 pkg install figlet          
 pkg install toilet               
